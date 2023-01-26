@@ -20,3 +20,4 @@ def test_program():
         )
 
 print('Всё ок!')
+print('Всё ок!')
